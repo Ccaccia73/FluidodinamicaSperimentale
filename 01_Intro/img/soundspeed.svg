@@ -25,7 +25,7 @@
      inkscape:snap-global="true"
      showgrid="true"
      id="namedview4158"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg4154"
      inkscape:cy="545.28806"
      inkscape:cx="617.02727"
      inkscape:zoom="1.9042309"
@@ -189,7 +189,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -220,7 +220,7 @@
        inkscape:original-d="m 71.966666,40.666667 0,14.111111 19.594806,-6.981452 z"
        inkscape:path-effect="#path-effect4717"
        id="path4715"
-       d="m 71.825555,40.666667 c 0,4.703704 0,9.407407 0,14.111111 a 0.14111104,0.14111338 0 0 0 0.188474,0.132925 l 19.5948,-6.98145 a 0.14111079,0.14111255 0 0 0 8.92e-4,-0.265533 L 72.014915,40.534061 Z m 0.09286,0.132606 19.226525,6.995659 -19.037165,6.782769 c 0,-4.637011 0,-9.274023 0,-13.911034 z"
+       d="m 71.825555,40.666667 c 0,0 0,14.111111 0,14.111111 a 0.14111104,0.14111338 0 0 0 0.188474,0.132925 l 19.5948,-6.98145 a 0.14111079,0.14111255 0 0 0 8.92e-4,-0.265533 L 72.014915,40.534061 Z m 0.09286,0.132606 19.226525,6.995659 -19.037165,6.782769 c 0,-1.717366 0,-13.911034 0,-13.911034 z"
        style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
@@ -432,25 +432,25 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="230.01111"
-     y="29.377775"
+     x="231.6414"
+     y="48.348396"
      id="text6416"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan6418"
-       x="230.01111"
-       y="29.377775">g</tspan></text>
+       x="231.6414"
+       y="48.348396">g</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="230.01111"
-     y="49.133331"
+     x="231.6414"
+     y="28.68063"
      id="text6420"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan6422"
-       x="230.01111"
-       y="49.133331">f</tspan></text>
+       x="231.6414"
+       y="28.68063">f</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:3.5277778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
