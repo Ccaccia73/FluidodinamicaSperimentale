@@ -1,0 +1,2 @@
+PSD massimo: 16.346916
+frequenza del massimo: 100.000000 [Hz]
